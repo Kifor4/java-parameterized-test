@@ -23,4 +23,8 @@
 hs_err_pid*
 
 .idea
+<<<<<<< HEAD
 target
+=======
+target
+>>>>>>> 00e0e99 (Add .gitignore to commit)
